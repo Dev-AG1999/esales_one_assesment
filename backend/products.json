@@ -1,0 +1,213 @@
+[
+  {
+    "id": "p1",
+    "title": "Adidas Ultraboost",
+    "description": "Adidas Ultraboost \u2014 high-quality footwear.",
+    "image": "/products/product_1.jpg",
+    "price": 5867,
+    "variants": [
+      "White",
+      "Blue"
+    ]
+  },
+  {
+    "id": "p2",
+    "title": "ASICS Gel-Lyte",
+    "description": "ASICS Gel-Lyte \u2014 high-quality footwear.",
+    "image": "/products/product_2.jpg",
+    "price": 3901,
+    "variants": [
+      "Yellow",
+      "Green",
+      "White"
+    ]
+  },
+  {
+    "id": "p3",
+    "title": "Vans Old Skool",
+    "description": "Vans Old Skool \u2014 high-quality footwear.",
+    "image": "/products/product_3.jpg",
+    "price": 3441,
+    "variants": [
+      "Blue"
+    ]
+  },
+  {
+    "id": "p4",
+    "title": "Reebok Classic",
+    "description": "Reebok Classic \u2014 high-quality footwear.",
+    "image": "/products/product_4.jpg",
+    "price": 6649,
+    "variants": [
+      "Black"
+    ]
+  },
+  {
+    "id": "p5",
+    "title": "Adidas Ultraboost",
+    "description": "Adidas Ultraboost \u2014 high-quality footwear.",
+    "image": "/products/product_5.jpg",
+    "price": 6384,
+    "variants": [
+      "White",
+      "Yellow",
+      "Black"
+    ]
+  },
+  {
+    "id": "p6",
+    "title": "Nike Air Max 90",
+    "description": "Nike Air Max 90 \u2014 high-quality footwear.",
+    "image": "/products/product_6.jpg",
+    "price": 6064,
+    "variants": [
+      "Red",
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "id": "p7",
+    "title": "Adidas Ultraboost",
+    "description": "Adidas Ultraboost \u2014 high-quality footwear.",
+    "image": "/products/product_7.jpg",
+    "price": 4917,
+    "variants": [
+      "Blue",
+      "Yellow",
+      "Red"
+    ]
+  },
+  {
+    "id": "p8",
+    "title": "ASICS Gel-Lyte",
+    "description": "ASICS Gel-Lyte \u2014 high-quality footwear.",
+    "image": "/products/product_8.jpg",
+    "price": 6810,
+    "variants": [
+      "Blue",
+      "Black"
+    ]
+  },
+  {
+    "id": "p9",
+    "title": "Under Armour HOVR",
+    "description": "Under Armour HOVR \u2014 high-quality footwear.",
+    "image": "/products/product_9.jpg",
+    "price": 2790,
+    "variants": [
+      "Yellow",
+      "Green",
+      "Black"
+    ]
+  },
+  {
+    "id": "p10",
+    "title": "Jordan 1 Retro",
+    "description": "Jordan 1 Retro \u2014 high-quality footwear.",
+    "image": "/products/product_10.jpg",
+    "price": 4954,
+    "variants": []
+  },
+  {
+    "id": "p11",
+    "title": "Converse Chuck Taylor All Star II Hi",
+    "description": "Converse Chuck Taylor All Star II Hi \u2014 high-quality footwear.",
+    "image": "/products/product_11.jpg",
+    "price": 4135,
+    "variants": [
+      "White",
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p12",
+    "title": "Converse Chuck Taylor All Star II Hi",
+    "description": "Converse Chuck Taylor All Star II Hi \u2014 high-quality footwear.",
+    "image": "/products/product_12.jpg",
+    "price": 5095,
+    "variants": [
+      "White"
+    ]
+  },
+  {
+    "id": "p13",
+    "title": "Under Armour HOVR",
+    "description": "Under Armour HOVR \u2014 high-quality footwear.",
+    "image": "/products/product_13.jpg",
+    "price": 4314,
+    "variants": [
+      "Yellow",
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "id": "p14",
+    "title": "Under Armour HOVR",
+    "description": "Under Armour HOVR \u2014 high-quality footwear.",
+    "image": "/products/product_14.jpg",
+    "price": 5211,
+    "variants": [
+      "White"
+    ]
+  },
+  {
+    "id": "p15",
+    "title": "Under Armour HOVR",
+    "description": "Under Armour HOVR \u2014 high-quality footwear.",
+    "image": "/products/product_15.jpg",
+    "price": 5724,
+    "variants": [
+      "Green"
+    ]
+  },
+  {
+    "id": "p16",
+    "title": "Nike Air Max 90",
+    "description": "Nike Air Max 90 \u2014 high-quality footwear.",
+    "image": "/products/product_16.jpg",
+    "price": 5383,
+    "variants": []
+  },
+  {
+    "id": "p17",
+    "title": "Puma RS-X",
+    "description": "Puma RS-X \u2014 high-quality footwear.",
+    "image": "/products/product_17.jpg",
+    "price": 5906,
+    "variants": [
+      "Red",
+      "White"
+    ]
+  },
+  {
+    "id": "p18",
+    "title": "New Balance 574",
+    "description": "New Balance 574 \u2014 high-quality footwear.",
+    "image": "/products/product_18.jpg",
+    "price": 4893,
+    "variants": []
+  },
+  {
+    "id": "p19",
+    "title": "Puma RS-X",
+    "description": "Puma RS-X \u2014 high-quality footwear.",
+    "image": "/products/product_19.jpg",
+    "price": 3873,
+    "variants": []
+  },
+  {
+    "id": "p20",
+    "title": "Converse Chuck Taylor All Star II Hi",
+    "description": "Converse Chuck Taylor All Star II Hi \u2014 high-quality footwear.",
+    "image": "/products/product_20.jpg",
+    "price": 5353,
+    "variants": [
+      "Blue",
+      "Red"
+    ]
+  }
+ 
+]
